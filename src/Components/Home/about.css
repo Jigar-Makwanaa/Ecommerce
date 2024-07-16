@@ -1,0 +1,103 @@
+.about-section {
+  padding: 40px 0px;
+}
+.about-section .container .row .main {
+  padding: 20px 0px;
+  justify-content: space-between;
+}
+.about-section .container .row .main .box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about-section .container .row .main .box .img i {
+  padding-right: 20px;
+  font-size: 30px;
+  color: #336699;
+  transition: all 0.5s;
+}
+.about-section .container .row .main .box .content h4 {
+  color: #333;
+}
+.about-section .container .row .main .box .content h5 {
+  color: #666;
+}
+.about-section .container .row .main .box:hover .img i {
+  transform: scale(1.1);
+}
+
+.banner-section {
+  padding: 40px 0px;
+  justify-content: space-between;
+}
+.banner-section .container .row {
+  justify-content: space-between;
+}
+.banner-section .container .row .main-box {
+  width: 49%;
+}
+.banner-section .container .row .main-box .box {
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  height: 260px;
+}
+.banner-section .container .row .main-box .box .content {
+  padding: 0px 40px;
+  width: 50%;
+}
+.banner-section .container .row .main-box .box .content h3 {
+  font-size: 20px;
+  color: #333;
+  padding: 5px 0px;
+}
+.banner-section .container .row .main-box .box .content h3 span {
+  color: #f77c29;
+  font-weight: 900;
+}
+.banner-section .container .row .main-box .box .content h2 {
+  font-size: 26px;
+  font-weight: 900;
+}
+.banner-section .container .row .main-box .box .content h4 {
+  font-size: 26px;
+  padding: 5px 0px;
+}
+.banner-section .container .row .main-box .box .content h5 {
+  color: #666;
+  font-size: 18px;
+  padding-top: 30px;
+}
+.banner-section .container .row .main-box .box .content h5 span {
+  color: #f77c29;
+  font-size: 18px;
+}
+.banner-section .container .row .main-box .box .c-2 h3 {
+  font-size: 20px;
+  color: #c4c4c5;
+  padding: 5px 0px;
+}
+.banner-section .container .row .main-box .box .c-2 h3 span {
+  color: #f77c29;
+  font-weight: 900;
+}
+.banner-section .container .row .main-box .box .c-2 h2 {
+  font-size: 26px;
+  font-weight: 900;
+  color: white;
+}
+.banner-section .container .row .main-box .box .c-2 h4 {
+  font-size: 26px;
+  padding: 5px 0px;
+  color: white;
+}
+.banner-section .container .row .main-box .box .c-2 h5 {
+  color: white;
+  font-size: 18px;
+  padding-top: 30px;
+}
+.banner-section .container .row .main-box .box .c-2 h5 span {
+  color: #f77c29;
+  font-size: 18px;
+  padding-left: 7px;
+}/*# sourceMappingURL=about.css.map */

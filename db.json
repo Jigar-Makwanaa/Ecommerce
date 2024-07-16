@@ -1,0 +1,377 @@
+{
+  "category": [
+    {
+      "id": "d12c",
+      "name": "Fashion",
+      "icon": "fa-solid fa-shirt"
+    },
+    {
+      "id": "e896",
+      "name": "Home & Garden",
+      "icon": "fa-solid fa-house"
+    },
+    {
+      "id": "ffc5",
+      "name": "Electronics",
+      "icon": "fa-solid fa-laptop"
+    },
+    {
+      "id": "f69f",
+      "name": "furniture",
+      "icon": "fa-solid fa-couch"
+    },
+    {
+      "id": "5d32",
+      "name": "healthy & beauty",
+      "icon": "fa-solid fa-heart-pulse"
+    },
+    {
+      "id": "edd2",
+      "name": "gift ideas",
+      "icon": "fa-solid fa-gift"
+    },
+    {
+      "id": "c1a6",
+      "name": "toy & games",
+      "icon": "fa-solid fa-gamepad"
+    },
+    {
+      "id": "afc3",
+      "name": "cooking",
+      "icon": "fa-solid fa-utensils"
+    },
+    {
+      "id": "a5c0",
+      "name": "smart phones",
+      "icon": "fa-solid fa-mobile"
+    },
+    {
+      "id": "d350",
+      "name": "camera & photo",
+      "icon": "fa-solid fa-camera"
+    }
+  ],
+  
+  "product": [
+    {
+      "id": "5815",
+      "name": "Classic Hat",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-1-2.jpg",
+      "price": "799",
+      "market": "populer",
+      "category": "Fashion"
+    },
+    {
+      "id": "2584",
+      "name": "Women’s White Handbag",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-2.jpg",
+      "price": "1199",
+      "market": "populer",
+      "category": "Fashion"
+    },
+    {
+      "id": "bfee",
+      "name": "Multi Funtional Apple iPhone",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-3.jpg",
+      "price": "35999",
+      "market": "populer",
+      "category": "smart phones"
+    },
+    {
+      "id": "8b2a",
+      "name": "Fashion Blue Towel",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-4-2.jpg",
+      "price": "89",
+      "market": "populer",
+      "category": "Fashion"
+    },
+    {
+      "id": "7611",
+      "name": "Apple Super Notecom",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-5.jpg",
+      "price": "80999",
+      "market": "populer",
+      "category": "Electronics"
+    },
+    {
+      "id": "a04a",
+      "name": "Women’s Comforter",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-6-2.jpg",
+      "price": "599",
+      "market": "populer",
+      "category": "Fashion"
+    },
+    {
+      "id": "82df",
+      "name": "Multi-colorful Music",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-7.jpg",
+      "price": "1399",
+      "market": "populer",
+      "category": "Electronics"
+    },
+    {
+      "id": "50cb",
+      "name": "Comfortable Backpack",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-8-2.jpg",
+      "price": "1199",
+      "market": "populer",
+      "category": "Fashion"
+    },
+    {
+      "id": "f7f9",
+      "name": "Data Transformer Tool",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-9.jpg",
+      "price": "899",
+      "market": "populer",
+      "category": "Electronics"
+    },
+    {
+      "id": "136b",
+      "name": "Women’s hairdye",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/3-10.jpg",
+      "price": "799",
+      "market": "populer",
+      "category": "healthy & beauty"
+    },
+    {
+      "id": "8bd1",
+      "name": "Men’s Clothing",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-1.jpg",
+      "price": "1599",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "07eb",
+      "name": "Women’s Fashion Handbag ",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-2-2.jpg",
+      "price": "1099",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "da19",
+      "name": "Black Winter Skating",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-3.jpg",
+      "price": "1299",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "6c39",
+      "name": "Sport Women's Wear",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-4-2.jpg",
+      "price": "2599",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "a549",
+      "name": "Best Travel Bag",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-5-2.jpg",
+      "price": "1499",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "879c",
+      "name": "Gray Leather Shoes",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-6.jpg",
+      "price": "999",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "84f3",
+      "name": "Men's Black Watch",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-7.jpg",
+      "price": "3599",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "f848",
+      "name": "Women’s Hiking Hat",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/4-8.jpg",
+      "price": "2699",
+      "market": "Clothing & Apparel",
+      "category": "Fashion"
+    },
+    {
+      "id": "1959",
+      "name": "Professional Pixel Camera",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-1-2.jpg",
+      "price": "35999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "a35c",
+      "name": "Wash Machine",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-2-2.jpg",
+      "price": "25999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "0928",
+      "name": "HD Television",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-3.jpg",
+      "price": "12999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "adec",
+      "name": "Data Transformer Tool",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-4.jpg",
+      "price": "45999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "17db",
+      "name": "Latest Speaker",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-5.jpg",
+      "price": "23999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "16db",
+      "name": "Security Guard",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-6.jpg",
+      "price": "19999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "c3fa",
+      "name": "USB Receipt",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-7.jpg",
+      "price": "18999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "ea27",
+      "name": "Multi Functional Apple iPhone",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/5-8.jpg",
+      "price": "17999",
+      "market": "Consumer Electric",
+      "category": "Electronics"
+    },
+    {
+      "id": "6521",
+      "name": "Home Sofa",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-1.jpg",
+      "price": "35999",
+      "market": "Home Garden & Kitchen",
+      "category": "furniture"
+    },
+    {
+      "id": "1640",
+      "name": "Kitchen Table",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-2-2.jpg",
+      "price": "25999",
+      "market": "Home Garden & Kitchen",
+      "category": "furniture"
+    },
+    {
+      "id": "89d4",
+      "name": "Table Lamp",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-3-2.jpg",
+      "price": "9999",
+      "market": "Home Garden & Kitchen",
+      "category": "furniture"
+    },
+    {
+      "id": "bd5a",
+      "name": "Latest Chair",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-4.jpg",
+      "price": "11999",
+      "market": "Home Garden & Kitchen",
+      "category": "furniture"
+    },
+    {
+      "id": "4d43",
+      "name": "Electric Rice-Cooker",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-5.jpg",
+      "price": "899",
+      "market": "Home Garden & Kitchen",
+      "category": "Home & Garden"
+    },
+    {
+      "id": "20c2",
+      "name": "Kitchen Cooker",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-6.jpg",
+      "price": "999",
+      "market": "Home Garden & Kitchen",
+      "category": "Home & Garden"
+    },
+    {
+      "id": "a87f",
+      "name": "Electric Frying Pan",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-7.jpg",
+      "price": "799",
+      "market": "Home Garden & Kitchen",
+      "category": "Home & Garden"
+    },
+    {
+      "id": "058a",
+      "name": "Automatic Crusher",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/products/6-8-2.jpg",
+      "price": "9999",
+      "market": "Home Garden & Kitchen",
+      "category": "Electronics"
+    },
+    {
+      "id": "3182",
+      "name": "t-shart",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/categories/2-1.jpg",
+      "price": "1199",
+      "market": "letest",
+      "category": "Fashion"
+    },
+    {
+      "id": "21bd",
+      "name": "sofa-set",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/categories/2-2.jpg",
+      "price": "9999",
+      "market": "letest",
+      "category": "furniture"
+    },
+    {
+      "id": "d728",
+      "name": "shoes",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/categories/2-3.jpg",
+      "price": "1199",
+      "market": "letest",
+      "category": "Fashion"
+    },
+    {
+      "id": "c880",
+      "name": "gym dumbbell",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/categories/2-4.jpg",
+      "price": "1599",
+      "market": "letest",
+      "category": "healthy & beauty"
+    },
+    {
+      "id": "b778",
+      "name": "game",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/categories/2-5.jpg",
+      "price": "899",
+      "market": "letest",
+      "category": "Electronics"
+    },
+    {
+      "id": "a406",
+      "name": "computers",
+      "img": "https://portotheme.com/html/wolmart/assets/images/demos/demo1/categories/2-6.jpg",
+      "price": "12999",
+      "market": "letest",
+      "category": "Electronics"
+    }
+  ]
+}

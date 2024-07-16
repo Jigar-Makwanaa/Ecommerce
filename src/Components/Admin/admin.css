@@ -1,0 +1,278 @@
+.page-header {
+  background-color: #eee;
+  padding: 50px 0px;
+}
+.page-header .container .row h1 {
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 900;
+  color: #333;
+}
+
+.url-path .container .row .path {
+  padding: 20px 0px;
+  border-bottom: 1px solid #eeeeee;
+}
+.url-path .container .row .path ul li {
+  text-transform: capitalize;
+  padding-right: 10px;
+  color: #7e7e7e;
+}
+.url-path .container .row .path ul li a {
+  color: #7e7e7e;
+}
+.url-path .container .row .path ul li a i {
+  padding-left: 10px;
+}
+
+.leftsidebar-section {
+  padding: 40px 0px;
+}
+.leftsidebar-section .container .row .left-bar .left-side {
+  width: 20%;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #dashbord {
+  background-color: #eee;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #dashbord a {
+  color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #category {
+  background-color: #eee;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #category a {
+  color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #product {
+  background-color: #eee;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #product a {
+  color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #viewproduct {
+  background-color: #eee;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul #viewproduct a {
+  color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul li {
+  border-bottom: 1px solid #eee;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul li a {
+  padding: 15px;
+  color: #333;
+  font-size: 18px;
+  font-weight: 600;
+  display: block;
+  text-transform: capitalize;
+  border-radius: 12px;
+  transition: all 0.5s;
+}
+.leftsidebar-section .container .row .left-bar .left-side ul li:hover a {
+  color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .right-side {
+  width: 80%;
+  padding: 0px 25px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .jigar-account {
+  padding-bottom: 20px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .jigar-account p {
+  color: #666;
+  line-height: 1.8;
+  font-size: 19px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .jigar-account p span {
+  color: #333;
+  font-weight: 600;
+}
+.leftsidebar-section .container .row .left-bar .right-side .main {
+  justify-content: space-between;
+}
+.leftsidebar-section .container .row .left-bar .right-side .main .box {
+  border: 2px solid #eee;
+  width: 33%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  transition: all 0.5s;
+}
+.leftsidebar-section .container .row .left-bar .right-side .main .box .icon i {
+  font-size: 50px;
+  color: #333;
+  transition: all 0.5s;
+}
+.leftsidebar-section .container .row .left-bar .right-side .main .box .content a {
+  font-size: 16px;
+  font-weight: 300;
+  color: #666;
+  text-transform: uppercase;
+}
+.leftsidebar-section .container .row .left-bar .right-side .main .box:hover {
+  box-shadow: 0px 0px 6px 4px #eee;
+}
+.leftsidebar-section .container .row .left-bar .right-side .main .box:hover .icon i {
+  transform: scale(1.1);
+  color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .right-side .main .box:hover .content a {
+  color: #336699;
+  border-bottom: 1px solid #336699;
+}
+.leftsidebar-section .container .row .left-bar .right-side .icon-account {
+  align-items: center;
+  padding-bottom: 20px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .icon-account span i {
+  color: #666;
+  font-size: 25px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .icon-account h4 {
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 600;
+  color: #333;
+  padding-left: 12px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .cat-add form {
+  width: 70%;
+}
+.leftsidebar-section .container .row .left-bar .right-side .cat-add form label {
+  display: block;
+  color: #666;
+  text-transform: capitalize;
+  padding: 10px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .cat-add form input {
+  width: 100%;
+  color: #666;
+  font-size: 17px;
+  padding: 9px 10px;
+  border: 1px solid #eee;
+  border-radius: 9px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .cat-add form input:focus {
+  border: 1px solid #333;
+}
+.leftsidebar-section .container .row .left-bar .right-side .cat-add form .btn {
+  padding: 20px 0px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .cat-add form .btn a {
+  display: block;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  background-color: #333;
+  padding: 10px 15px;
+  font-size: 15px;
+  font-weight: 900;
+  border-radius: 9px;
+  width: 150px;
+  transition: all 0.5s;
+}
+.leftsidebar-section .container .row .left-bar .right-side .cat-add form .btn a:hover {
+  background-color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form {
+  width: 70%;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form label {
+  display: block;
+  color: #666;
+  text-transform: capitalize;
+  padding: 10px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form input {
+  width: 100%;
+  color: #666;
+  font-size: 17px;
+  padding: 9px 10px;
+  border: 1px solid #eee;
+  border-radius: 9px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form input:focus {
+  border: 1px solid #333;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form .select-cat {
+  padding: 10px 0px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form .select-cat select {
+  padding: 10px 5px;
+  font-size: 17px;
+  border: 2px solid #eee;
+  color: #666;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form .select-cat select option {
+  color: #666;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form .btn {
+  padding: 20px 0px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form .btn a {
+  display: block;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  background-color: #333;
+  padding: 10px 15px;
+  font-size: 15px;
+  font-weight: 900;
+  border-radius: 9px;
+  width: 150px;
+  transition: all 0.5s;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-add form .btn a:hover {
+  background-color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box {
+  width: 25%;
+  padding: 10px 10px;
+  overflow: hidden;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .image {
+  width: 100%;
+  height: 278px;
+  overflow: hidden;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .image img {
+  display: block;
+  width: 100%;
+  transition: all 0.5s;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .content {
+  padding: 10px 0px;
+  text-align: center;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .content h4 {
+  color: #333;
+  font-size: 17px;
+  text-transform: capitalize;
+  transition: all 0.5s;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .content h4:hover {
+  color: #369;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .content .raiting {
+  padding: 7px 0px;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .content .raiting i {
+  font-size: 15px;
+  padding: 0px 2px;
+  color: #f77c29;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .content span {
+  display: block;
+  font-size: 19px;
+  color: #333;
+  font-weight: 900;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box .main .content span:hover {
+  color: #336699;
+}
+.leftsidebar-section .container .row .left-bar .right-side .product-view .box:hover .main .image img {
+  transform: scale(1.1);
+}/*# sourceMappingURL=admin.css.map */

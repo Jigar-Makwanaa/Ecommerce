@@ -1,0 +1,255 @@
+// elec-section start  
+
+.elec-section {
+    padding: 40px 0px;
+
+    .container {
+        .row {
+            .head {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                border-bottom: 1px solid #eee;
+                padding: 20px 0px;
+
+                h2 {
+                    font-size: 20px;
+                    color: #333;
+                }
+
+                .btn {
+                    a {
+                        color: #333;
+                        font-size: 14px;
+
+                        i {
+                            padding-left: 10px;
+                        }
+                    }
+                }
+            }
+
+            .main {
+                display: flex;
+                flex-wrap: wrap;
+                padding: 40px 0px;
+
+                .left-side {
+                    width: 25%;
+                    background-image: url('../../../public/img/3.jpg');
+                    background-size: cover;
+                    background-repeat: no-repeat;
+
+                    .content {
+                        padding: 35px;
+
+                        .details {
+                            span {
+                                display: inline-block;
+                                font-size: 20px;
+                                border-bottom: 3px solid white;
+                                color: white;
+
+                            }
+
+                            h2 {
+                                font-size: 35px;
+                                font-weight: 900;
+                                padding: 10px 0px;
+                                color: white;
+                            }
+
+                            h3 {
+                                font-size: 25px;
+                                color: white;
+                            }
+
+                            .btn {
+                                padding-top: 25px;
+
+                                a {
+                                    display: inline-block;
+                                    padding: 10px 30px;
+                                    border: 3px solid white;
+                                    transition: all 0.5s;
+                                    color: white;
+                                    font-size: 17px;
+                                    font-weight: 600;
+                                    border-radius: 5px;
+                                }
+
+                                &:hover {
+                                    a {
+                                        background-color: white;
+                                        color: #336699;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .right-side {
+                    width: 75%;
+                    padding-left: 30px;
+
+                    .main-box {
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+
+                        .box {
+                            width: 23%;
+                            margin-bottom: 10px;
+
+                            .content {
+                                .image {
+                                    overflow: hidden;
+
+                                    img {
+                                        width: 100%;
+                                        transform: scale(1.2);
+
+                                    }
+                                }
+
+                                .details {
+                                    padding: 12px 0px;
+
+                                    h3 {
+                                        text-align: center;
+                                        font-size: 17px;
+                                        text-transform: capitalize;
+                                    }
+
+                                    .icon {
+                                        text-align: center;
+                                        padding: 10px 0px;
+
+                                        i {
+                                            color: #f77c29;
+                                            padding: 0px 4px;
+                                        }
+                                    }
+
+                                    span {
+                                        text-align: center;
+                                        font-weight: 900;
+                                        text-align: center;
+                                        display: block;
+                                    }
+                                }
+                            }
+
+                            &:hover {
+                                .content {
+                                    .image {
+                                        img {
+                                            transform: scale(1.1);
+                                        }
+                                    }
+
+                                    .details {
+                                        span {
+                                            color: #336699;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// elec-section end
+
+// banner section start 
+
+.banner-section {
+    padding: 0px;
+    .container {
+        .row {
+            .main {
+                background-image: url("../../../public/img/4.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                padding: 70px;
+                border-radius: 12px;
+                .content {
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    justify-content: space-between;
+                    .left-side {
+                        display: flex;
+                        flex-wrap: wrap;
+                        align-items: center;
+                        .off {
+                            span {
+                                display: inline-block;
+                                color: #f77c29 ;
+                                font-size: 90px;
+                                font-weight: 900;
+                                padding-right: 50px;
+                                border-right: 3px solid #666;
+                            }
+                        }
+
+                        .details {
+                            padding-left: 50px;
+                            h2 {
+                                color: white;
+                                font-size: 48px;
+                                font-weight: 900;
+                                padding-bottom: 15px;
+                            }
+                            h3 {
+                                color: white;
+                                font-size: 22px;
+                                span {
+                                    display: inline-block;
+                                    background-color: white;
+                                    color: #333;
+                                    padding: 5px 10px;
+                                }
+                            }
+
+                        }
+                    }
+
+                    .right-side {
+                        .btn {
+                            a {
+                                display: inline-block;
+                                padding: 10px 30px;
+                                border: 3px solid white;
+                                transition: all 0.5s;
+                                color: white;
+                                font-size: 17px;
+                                font-weight: 600;
+                                border-radius: 5px;
+                                display: inline-block;
+
+                                i {
+                                    padding-left: 10px;
+                                }
+                            }
+
+                            &:hover {
+                               a {
+                                background-color: white;
+                                color: #336699;
+                               }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// banner section end

@@ -1,0 +1,113 @@
+.cloth-section {
+  padding: 40px 0px;
+}
+.cloth-section .container .row .head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 1px solid #eee;
+  padding: 20px 0px;
+}
+.cloth-section .container .row .head h2 {
+  font-size: 20px;
+  color: #333;
+}
+.cloth-section .container .row .head .btn a {
+  color: #333;
+  font-size: 14px;
+}
+.cloth-section .container .row .head .btn a i {
+  padding-left: 10px;
+}
+.cloth-section .container .row .main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 40px 0px;
+}
+.cloth-section .container .row .main .left-side {
+  width: 25%;
+  background-image: url("../../../public/img/2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.cloth-section .container .row .main .left-side .content {
+  padding: 35px;
+}
+.cloth-section .container .row .main .left-side .content .details span {
+  display: inline-block;
+  font-size: 20px;
+  border-bottom: 3px solid #333;
+}
+.cloth-section .container .row .main .left-side .content .details h2 {
+  font-size: 35px;
+  font-weight: 900;
+  padding: 10px 0px;
+}
+.cloth-section .container .row .main .left-side .content .details h3 {
+  font-size: 25px;
+}
+.cloth-section .container .row .main .left-side .content .details .btn {
+  padding-top: 25px;
+}
+.cloth-section .container .row .main .left-side .content .details .btn a {
+  display: inline-block;
+  padding: 10px 30px;
+  border: 3px solid #333;
+  transition: all 0.5s;
+  color: #333;
+  font-size: 17px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.cloth-section .container .row .main .left-side .content .details .btn:hover a {
+  background-color: #333;
+  color: white;
+}
+.cloth-section .container .row .main .right-side {
+  width: 75%;
+  padding-left: 30px;
+}
+.cloth-section .container .row .main .right-side .main-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.cloth-section .container .row .main .right-side .main-box .box {
+  width: 23%;
+  margin-bottom: 10px;
+}
+.cloth-section .container .row .main .right-side .main-box .box .content .image {
+  overflow: hidden;
+}
+.cloth-section .container .row .main .right-side .main-box .box .content .image img {
+  width: 100%;
+  transform: scale(1.2);
+}
+.cloth-section .container .row .main .right-side .main-box .box .content .details {
+  padding: 12px 0px;
+}
+.cloth-section .container .row .main .right-side .main-box .box .content .details h3 {
+  text-align: center;
+  font-size: 17px;
+  text-transform: capitalize;
+}
+.cloth-section .container .row .main .right-side .main-box .box .content .details .icon {
+  text-align: center;
+  padding: 10px 0px;
+}
+.cloth-section .container .row .main .right-side .main-box .box .content .details .icon i {
+  color: #f77c29;
+  padding: 0px 4px;
+}
+.cloth-section .container .row .main .right-side .main-box .box .content .details span {
+  text-align: center;
+  font-weight: 900;
+  text-align: center;
+  display: block;
+}
+.cloth-section .container .row .main .right-side .main-box .box:hover .content .image img {
+  transform: scale(1.1);
+}
+.cloth-section .container .row .main .right-side .main-box .box:hover .content .details span {
+  color: #336699;
+}/*# sourceMappingURL=cloth.css.map */

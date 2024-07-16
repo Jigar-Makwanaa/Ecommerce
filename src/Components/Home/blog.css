@@ -1,0 +1,84 @@
+.blog-section {
+  padding: 40px 0px;
+}
+.blog-section .container .row .head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 1px solid #eee;
+  padding: 20px 0px;
+}
+.blog-section .container .row .head h2 {
+  font-size: 20px;
+  color: #333;
+}
+.blog-section .container .row .head .btn a {
+  color: #333;
+  font-size: 14px;
+}
+.blog-section .container .row .head .btn a i {
+  padding-left: 10px;
+}
+.blog-section .container .row .main-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px 0px;
+}
+.blog-section .container .row .main-box .box {
+  width: 24%;
+  margin-bottom: 10px;
+}
+.blog-section .container .row .main-box .box .content .image {
+  overflow: hidden;
+}
+.blog-section .container .row .main-box .box .content .image img {
+  width: 100%;
+  transform: scale(1.2);
+  transition: all 0.5s;
+}
+.blog-section .container .row .main-box .box .content .details {
+  padding: 12px 0px;
+}
+.blog-section .container .row .main-box .box .content .details h3 {
+  text-align: center;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #999999;
+}
+.blog-section .container .row .main-box .box .content .details h3 span {
+  color: #333;
+  display: inline-block;
+  font-weight: 900;
+}
+.blog-section .container .row .main-box .box .content .details h2 {
+  text-align: center;
+  font-size: 20px;
+  color: #333;
+  padding: 8px 0px;
+}
+.blog-section .container .row .main-box .box .content .details .btn {
+  display: flex;
+  justify-content: center;
+  padding-top: 6px;
+}
+.blog-section .container .row .main-box .box .content .details .btn a {
+  display: inline-block;
+  transition: all 0.5s;
+  border-bottom: 3px solid white;
+  text-transform: capitalize;
+  font-size: 19px;
+  color: #333;
+}
+.blog-section .container .row .main-box .box .content .details .btn a i {
+  padding-left: 8px;
+}
+.blog-section .container .row .main-box .box .content .details .btn:hover a {
+  border-bottom: 3px solid #333;
+}
+.blog-section .container .row .main-box .box:hover .content .image img {
+  transform: scale(1.1);
+}
+.blog-section .container .row .main-box .box:hover .content .details h2 {
+  color: #336699;
+}/*# sourceMappingURL=blog.css.map */
