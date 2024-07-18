@@ -5,8 +5,8 @@ import Deshbord from '../../Components/Admin/Deshbord'
 const Admin = () => {
   return (
     <>
-      <Header/>
-      <Deshbord/>
+      <Header />
+      <Deshbord />
     </>
   )
 }

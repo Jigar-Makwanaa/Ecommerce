@@ -8,6 +8,7 @@ import Cloth from '../../Components/Home/Cloth'
 import Elect from '../../Components/Home/Elec'
 import Kitchen from '../../Components/Home/Kitchen'
 import Blog from '../../Components/Home/Blog'
+import Footer from '../../Components/Footer/Footer'
 
 const Homepage = () => {
   return (
@@ -18,9 +19,10 @@ const Homepage = () => {
       <TopCat />
       <Popular />
       <Cloth />
-      <Elect/>
-      <Kitchen/>
-      <Blog/>/
+      <Elect />
+      <Kitchen />
+      <Blog />
+      <Footer />
     </>
   )
 }
